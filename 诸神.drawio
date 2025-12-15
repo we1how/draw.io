@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="第 1 页" id="u20FxQ6vn3b7YfXHKA1q">
+    <mxGraphModel dx="1299" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gUWj6ne6PJxMg1QsJJ5F-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="诸神" vertex="1">
+          <mxGeometry height="30" width="60" x="70" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="gUWj6ne6PJxMg1QsJJ5F-5" edge="1" parent="1" source="gUWj6ne6PJxMg1QsJJ5F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="gUWj6ne6PJxMg1QsJJ5F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gUWj6ne6PJxMg1QsJJ5F-6" edge="1" parent="1" source="gUWj6ne6PJxMg1QsJJ5F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="gUWj6ne6PJxMg1QsJJ5F-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gUWj6ne6PJxMg1QsJJ5F-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="情节设定1" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="gUWj6ne6PJxMg1QsJJ5F-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="这是以被八国联军入侵被迫打开国门作为背景清朝时期的京城（这一段需要换个说法虚拟等同化），八国作为天人，操作着中国皇帝作为傀儡。明面上八国是外来入侵者，皇帝母亲和八国签署辱国协议一同统治着京城，压榨着百姓，中国皇帝仍受民众爱戴，认为皇帝有不得已的苦衷，觉得皇帝只是被操纵，有朝一日还是会重整旗鼓，但真相是，皇帝母亲背负骂名、忍辱负重，傀儡皇帝暗暗积蓄力量并且最后一一蚕食八国，在最后一场惊天大计谋设计大局将八国收入囊中，不过这一部份是慢慢铺垫，并在小说的最后一本/最后一个篇章出现" vertex="1">
+          <mxGeometry height="150" width="370" x="280" y="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
