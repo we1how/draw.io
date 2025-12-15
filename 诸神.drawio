@@ -1,14 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="29.2.7" pages="3">
   <diagram name="总纲" id="u20FxQ6vn3b7YfXHKA1q">
-    <mxGraphModel dx="1299" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3043" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-1" edge="1" parent="1" source="gUWj6ne6PJxMg1QsJJ5F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gUWj6ne6PJxMg1QsJJ5F-3">
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-16" edge="1" parent="1" source="gUWj6ne6PJxMg1QsJJ5F-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UjPsWOMgkrSRG9Zv-WuJ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gUWj6ne6PJxMg1QsJJ5F-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="诸神" vertex="1">
-          <mxGeometry height="30" width="50" x="70" y="490" as="geometry" />
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-18" edge="1" parent="1" source="gUWj6ne6PJxMg1QsJJ5F-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="UjPsWOMgkrSRG9Zv-WuJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-19" edge="1" parent="1" source="gUWj6ne6PJxMg1QsJJ5F-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UjPsWOMgkrSRG9Zv-WuJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-20" edge="1" parent="1" source="gUWj6ne6PJxMg1QsJJ5F-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gUWj6ne6PJxMg1QsJJ5F-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gUWj6ne6PJxMg1QsJJ5F-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="诸神大纲" vertex="1">
+          <mxGeometry height="30" width="70" x="-300" y="550" as="geometry" />
         </mxCell>
         <mxCell id="gUWj6ne6PJxMg1QsJJ5F-5" edge="1" parent="1" source="gUWj6ne6PJxMg1QsJJ5F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="gUWj6ne6PJxMg1QsJJ5F-4">
           <mxGeometry relative="1" as="geometry" />
@@ -18,6 +27,42 @@
         </mxCell>
         <mxCell id="gUWj6ne6PJxMg1QsJJ5F-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="这是以被八国联军入侵被迫打开国门作为背景清朝时期的京城（这一段需要换个说法虚拟等同化），八国作为天人，操作着中国皇帝作为傀儡。明面上八国是外来入侵者，皇帝母亲和八国签署辱国协议一同统治着京城，压榨着百姓，中国皇帝仍受民众爱戴，认为皇帝有不得已的苦衷，觉得皇帝只是被操纵，有朝一日还是会重整旗鼓，但真相是，皇帝母亲背负骂名、忍辱负重，傀儡皇帝暗暗积蓄力量并且最后一一蚕食八国，在最后一场惊天大计谋设计大局将八国收入囊中，不过这一部份是慢慢铺垫，并在小说的最后一本/最后一个篇章出现" vertex="1">
           <mxGeometry height="150" width="370" x="280" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-4" edge="1" parent="1" source="UjPsWOMgkrSRG9Zv-WuJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UjPsWOMgkrSRG9Zv-WuJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="八国背景" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="八国作为天人，是来自外宇宙的各种族，拥有各色各异的能力，偶然间发现了地球这颗星球有着令各种族觊觎的资源（宝物、能力），统治这个星球的中国，虽然也有着强大的异能但是由于疏于战争，以及内部各种原因，内忧外患之下最终虽死守但仍落败，战胜之后八国在世界大陆有着独属领地，多年来，也和百姓们产生融合（无论是文化还是异能上），各地的反抗天人的力度也不同，呈现一种假和平相处状态。" vertex="1">
+          <mxGeometry height="210" width="360" x="285" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-8" edge="1" parent="1" source="UjPsWOMgkrSRG9Zv-WuJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UjPsWOMgkrSRG9Zv-WuJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="一句话概括" vertex="1">
+          <mxGeometry height="30" width="80" x="150" y="562.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="主角陈烬， 在一次执行任务护送天人飞船的时候，意外遇到了反叛军袭击，飞船中的尘封的宝物被打开，原本毫无异能力的他，觉醒了侵蚀系统，从此踏上了复仇的人生，在各国完成时间线任务，不同成长的同时，也遇见了很多朋友、敌人，和孙中山一起帮助皇帝对抗天人，但也在最后亲手了解了自己曾为挚友的皇帝，最后由于自身最后被侵蚀系统反噬，在好友孙中山的见证下，真正的灰飞烟灭" vertex="1">
+          <mxGeometry height="165" width="410" x="290" y="562.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-17" edge="1" parent="1" source="UjPsWOMgkrSRG9Zv-WuJ-12" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UjPsWOMgkrSRG9Zv-WuJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="反叛军背景" vertex="1">
+          <mxGeometry height="30" width="70" x="150" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="世界各地都存在反叛军，规模大小不一，实力强劲的有早早成名的义和团，也有后起之秀由孙中山领导的兴中会，彼此之间，若离若合。反叛军目的各异，有纯粹对抗天人的，有和天人达成互不侵犯协议，有反抗政府的，也有天人政府一起反抗的。最后各路反叛军，被孙中山团结一起，推翻天人，在胜利成果被政府窃取后，发现政府的黑幕，反叛军重新集结，与政府展开来最后战役" vertex="1">
+          <mxGeometry height="230" width="330" x="300" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="人物设定" vertex="1">
+          <mxGeometry height="30" width="60" x="-220" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="异能设定" vertex="1">
+          <mxGeometry height="30" width="60" x="-220" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="UjPsWOMgkrSRG9Zv-WuJ-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="时间轴" vertex="1">
+          <mxGeometry height="30" width="60" x="-220" y="1310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
