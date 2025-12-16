@@ -77,10 +77,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NxxUzNS42K0XXzg1Fea_" name="1.1">
-    <mxGraphModel dx="613" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oJJH6DBulZ41e_mKuVyA-4" parent="1" style="swimlane;" value="行为" vertex="1">
+          <mxGeometry height="130" width="190" x="80" y="200" as="geometry">
+            <mxRectangle height="30" width="60" x="80" y="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJJH6DBulZ41e_mKuVyA-10" parent="oJJH6DBulZ41e_mKuVyA-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="分数" vertex="1">
+          <mxGeometry height="30" width="60" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oJJH6DBulZ41e_mKuVyA-9" parent="oJJH6DBulZ41e_mKuVyA-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="等级" vertex="1">
+          <mxGeometry height="30" width="60" x="10" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oJJH6DBulZ41e_mKuVyA-11" parent="oJJH6DBulZ41e_mKuVyA-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="精力" vertex="1">
+          <mxGeometry height="30" width="60" x="10" y="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
