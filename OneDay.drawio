@@ -77,7 +77,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NxxUzNS42K0XXzg1Fea_" name="1.1">
-    <mxGraphModel dx="1665" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2492" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,6 +115,49 @@
         </mxCell>
         <mxCell id="xl79H82nyA5ZxLTAV3_L-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="用户只需要输入行为等级和行为名称，其余信息（分数和精力消耗等）确定等级后，自动填充" vertex="1">
           <mxGeometry height="80" width="220" x="670" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="xl79H82nyA5ZxLTAV3_L-12" parent="1" style="whiteSpace=wrap;html=1;" value="记录行为系统" vertex="1">
+          <mxGeometry height="60" width="120" x="-30" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-1" parent="1" style="whiteSpace=wrap;html=1;" value="增加行为系统" vertex="1">
+          <mxGeometry height="60" width="120" x="-30" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-2" parent="1" style="whiteSpace=wrap;html=1;" value="用户记录" vertex="1">
+          <mxGeometry height="60" width="110" x="80" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-8" edge="1" parent="1" source="fNFgxazD4EHKTu8TzsxE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.28;exitY=0.495;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fNFgxazD4EHKTu8TzsxE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-9" edge="1" parent="1" source="fNFgxazD4EHKTu8TzsxE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-10" edge="1" parent="1" source="fNFgxazD4EHKTu8TzsxE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="190" width="50" x="230" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-4" edge="1" parent="1" source="fNFgxazD4EHKTu8TzsxE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="fNFgxazD4EHKTu8TzsxE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-11" edge="1" parent="1" source="fNFgxazD4EHKTu8TzsxE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fNFgxazD4EHKTu8TzsxE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-5" parent="1" style="whiteSpace=wrap;html=1;" value="等级" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-6" parent="1" style="whiteSpace=wrap;html=1;" value="行为" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-7" parent="1" style="whiteSpace=wrap;html=1;" value="时长" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="通过等级找到行为" vertex="1">
+          <mxGeometry height="30" width="110" x="380" y="515" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
