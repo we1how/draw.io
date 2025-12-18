@@ -159,6 +159,9 @@
         <mxCell id="fNFgxazD4EHKTu8TzsxE-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="通过等级找到行为" vertex="1">
           <mxGeometry height="30" width="110" x="380" y="515" as="geometry" />
         </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="记录行为的时候，要先输入等级，就会有该等级各个行为，在输入行为和进行时长" vertex="1">
+          <mxGeometry height="110" width="250" x="655" y="-130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
