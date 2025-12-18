@@ -150,6 +150,12 @@
         <mxCell id="fNFgxazD4EHKTu8TzsxE-5" parent="1" style="whiteSpace=wrap;html=1;" value="等级" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="450" as="geometry" />
         </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-19" edge="1" parent="1" source="fNFgxazD4EHKTu8TzsxE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fNFgxazD4EHKTu8TzsxE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-20" edge="1" parent="1" source="fNFgxazD4EHKTu8TzsxE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fNFgxazD4EHKTu8TzsxE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fNFgxazD4EHKTu8TzsxE-6" parent="1" style="whiteSpace=wrap;html=1;" value="行为" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="545" as="geometry" />
         </mxCell>
@@ -161,6 +167,18 @@
         </mxCell>
         <mxCell id="fNFgxazD4EHKTu8TzsxE-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="记录行为的时候，要先输入等级，就会有该等级各个行为，在输入行为和进行时长" vertex="1">
           <mxGeometry height="110" width="250" x="655" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-14" parent="1" style="whiteSpace=wrap;html=1;" value="短记录" vertex="1">
+          <mxGeometry height="40" width="90" x="530" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-15" parent="1" style="whiteSpace=wrap;html=1;" value="长记录" vertex="1">
+          <mxGeometry height="35" width="90" x="530" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="只有名称" vertex="1">
+          <mxGeometry height="30" width="60" x="690" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="fNFgxazD4EHKTu8TzsxE-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="详细过程、心情等" vertex="1">
+          <mxGeometry height="30" width="160" x="640" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
