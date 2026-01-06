@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="29.2.7" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="29.2.9" pages="3">
   <diagram name="1.0" id="nKGcJNdvo0A2kRwWgKRo">
     <mxGraphModel dx="613" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,6 +185,47 @@
         </mxCell>
         <mxCell id="fNFgxazD4EHKTu8TzsxE-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="详细过程、心情等" vertex="1">
           <mxGeometry height="30" width="160" x="640" y="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9JjsWltTFEQSiRlrzaE_" name="2.0">
+    <mxGraphModel dx="966" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G-_L9Q9zWPvK6eWMdN8M-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="用户输入" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="G-_L9Q9zWPvK6eWMdN8M-10" edge="1" parent="1" source="G-_L9Q9zWPvK6eWMdN8M-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="G-_L9Q9zWPvK6eWMdN8M-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-_L9Q9zWPvK6eWMdN8M-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="100" width="30" x="170" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="G-_L9Q9zWPvK6eWMdN8M-6" edge="1" parent="1" source="G-_L9Q9zWPvK6eWMdN8M-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="G-_L9Q9zWPvK6eWMdN8M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-_L9Q9zWPvK6eWMdN8M-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="等级" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G-_L9Q9zWPvK6eWMdN8M-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="行为" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G-_L9Q9zWPvK6eWMdN8M-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="时长" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="G-_L9Q9zWPvK6eWMdN8M-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="心情" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="G-_L9Q9zWPvK6eWMdN8M-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="核心公式：&lt;span style=&quot;background-color: transparent;&quot;&gt;单次得分 = 基础分 × 时长 × 动态系数 × 心情系数&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="330" x="100" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="G-_L9Q9zWPvK6eWMdN8M-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;动态系数 = 精力系数 × 时段系数 × 连击系数 × 幸运系数&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="390" x="55" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="G-_L9Q9zWPvK6eWMdN8M-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="上瘾循环的极简实现" vertex="1">
+          <mxGeometry height="30" width="150" x="110" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
